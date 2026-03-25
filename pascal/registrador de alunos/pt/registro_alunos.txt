@@ -1,0 +1,9 @@
+Media para aprovar: media maior que 7
+Aluno 1: l
+Nota 1: 7.00
+Nota 2: 7.00
+Nota 3: 7.00
+Nota 4: 7.00
+Media do aluno: 7.00
+Situacao: Aprovado
+

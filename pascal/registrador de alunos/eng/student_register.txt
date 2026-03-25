@@ -1,0 +1,9 @@
+Avarage to be approved: avarage greater than 7
+Student 1: leo
+Grade 1: 7.00
+Grade 2: 7.00
+Grade 3: 7.00
+Grade 4: 7.00
+Student avarage: 7.00
+Situation: Approved
+

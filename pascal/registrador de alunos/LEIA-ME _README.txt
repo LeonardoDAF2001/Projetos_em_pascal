@@ -41,3 +41,5 @@ Additional Information:
 - Grades and averages are real numbers, meaning decimal values can be entered.
 - Grades are limited between 1 and 10.
 - The .txt file is overwritten each time the user selects option four.
+
+Feito por / Made by: Leonardo Ferreira
